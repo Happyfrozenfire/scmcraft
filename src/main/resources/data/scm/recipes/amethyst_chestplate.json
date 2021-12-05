@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:amethyst_crystal"
+    }
+  },
+  "result": {
+    "item": "scmcraft:amethyst_chestplate",
+    "count": 1
+  }
+}

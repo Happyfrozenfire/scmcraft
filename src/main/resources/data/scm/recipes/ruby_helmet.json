@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "scmcraft:ruby"
+    }
+  },
+  "result": {
+    "item": "scmcraft:ruby_helmet",
+    "count": 1
+  }
+}

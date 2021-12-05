@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "scmcraft:topaz"
+    }
+  },
+  "result": {
+    "item": "scmcraft:topaz_boots",
+    "count": 1
+  }
+}

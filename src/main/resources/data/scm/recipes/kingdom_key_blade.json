@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "I",
+    "M"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "scmcraft:mythril_shard"
+    }
+  },
+  "result": {"item": "scmcraft:kingdom_key_blade",
+    "count": 1
+  }
+}

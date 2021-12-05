@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "scm:block/ruby_block" }
+  }
+}

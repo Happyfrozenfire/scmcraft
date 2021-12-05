@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "scmcraft:amethyst"
+    }
+  },
+  "result": {"item": "scmcraft:lady_luck_blade",
+    "count": 1
+  }
+}

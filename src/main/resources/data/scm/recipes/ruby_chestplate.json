@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "scmcraft:ruby"
+    }
+  },
+  "result": {
+    "item": "scmcraft:ruby_chestplate",
+    "count": 1
+  }
+}

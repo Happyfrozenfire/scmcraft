@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " S ",
+    " S "
+  ],
+
+    "S": {
+      "item": "minecraft:stick"
+    },
+  "result": {
+    "item": "scmcraft:wooden_rapier",
+    "count": 1
+  }
+}

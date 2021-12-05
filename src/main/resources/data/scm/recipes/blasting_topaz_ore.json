@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "scmcraft:topaz_ore"
+  },
+  "result": "scmcraft:topaz",
+  "experience":1.0,
+  "cookingtime": 100
+}

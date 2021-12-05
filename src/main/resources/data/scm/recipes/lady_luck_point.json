@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GR ",
+    "RRR",
+    "RR "
+  ],
+  "key": {
+    "R": {
+      "item": "scmcraft:ruby"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {"item": "scmcraft:lady_luck_point",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "scmcraft:mythril_ore"
+  },
+  "result": "scmcraft:mythril_shard",
+  "experience":1.0,
+  "cookingtime": 100
+}

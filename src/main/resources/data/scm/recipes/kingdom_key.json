@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "B",
+    "H"
+  ],
+  "key": {
+    "P": {
+      "item": "scmcraft:kingdom_key_point"
+    },
+    "B": {
+      "item": "scmcraft:kingdom_key_blade"
+    },
+    "H": {
+      "item": "scmcraft:kingdom_key_hilt"
+    }
+  },
+  "result": {"item": "scmcraft:kingdom_key",
+    "count": 1
+  }
+}

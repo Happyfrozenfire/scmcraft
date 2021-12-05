@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "scm:block/topaz_block" }
+  }
+}
